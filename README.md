@@ -20,8 +20,6 @@ yarn start
 
 server unstable 
 
-code: 'ERR_REQUIRE_ESM' error => npm install node-fetch@2.6.1
-
 node_modules\@babel\core\lib\config\files\configuration.js:273
 
 throw new Error(`${filepath}: Config returned typeof ${typeof options}`)
